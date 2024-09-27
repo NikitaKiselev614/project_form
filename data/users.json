@@ -1,0 +1,17 @@
+[
+    {
+        "email": "user1@example.com",
+        "phone": "+375 29 123-45-67",
+        "password": "$2y$10$f5yIdpSwfTF2PAI/F4lHQ.bIhAzjNL.iNB/BmgC7Vf0VDGKL189pm" 
+    },
+    {
+        "email": "user2@example.com",
+        "phone": "+375 33 234-56-78",
+        "password": "$2y$10$6IxxKQIhDJtpv2V48.0wZOlucTWDb6aT/7JJJSDxiaPdyXAJH3neK" 
+    },
+    {
+        "email": "user3@example.com",
+        "phone": "+375 44 345-67-89",
+        "password": "$2y$10$CfcP17oiJrEiaM.XlxItFeNDTAewc9MYwqxp2qsEKgj2nS14VRupO"
+    }
+]
